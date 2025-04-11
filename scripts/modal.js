@@ -26,12 +26,6 @@ $(document).ready(function(){
       detail: 'Based on the randomly selected number of stars, choose buttons whose sum is equal to number of stars.',
       link: 'https://amanuel-play-nine.herokuapp.com/'
     },
-    kabbeeplus: {
-          title: 'Kabbee+',
-          tag: 'React Native App',
-          detail: 'A streaming application that targets for Habesha people',
-          link: 'https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus&hl=en_US&pli=1'
-    },
     esl: {
       title: 'ESL',
       tag: 'Basic Eritrean Sign Language',
@@ -58,6 +52,12 @@ $(document).ready(function(){
       title: 'PolicetrafficDB',
       tag: 'Police Traffic Management System',
       detail: 'PoliceTrafficDB is a vehicle management system for the Police Traffic Department of Eritrea. The system records every details of all the vehicles like plate number, owner details, parts model and details and etc. The system also records if any of the vehicle part or the owner is changed. The system then reports every history of any vehicle with in the nation. To make the app as user friendly as possible I made the front end in Tigrigna, because most of those who use the system are not familiar with English.',
+    },
+    kabbeeplus: {
+      title: 'Kabbee+',
+      tag: 'React Native App',
+      detail: 'A streaming application that targets for Habesha people',
+      link: 'https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus&hl=en_US&pli=1'
     }
   };
 
