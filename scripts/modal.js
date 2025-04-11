@@ -26,6 +26,12 @@ $(document).ready(function(){
       detail: 'Based on the randomly selected number of stars, choose buttons whose sum is equal to number of stars.',
       link: 'https://amanuel-play-nine.herokuapp.com/'
     },
+    kabbeeplus: {
+          title: 'Kabbee+',
+          tag: 'React Native App',
+          detail: 'A streaming application that targets for Habesha people',
+          link: 'https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus&hl=en_US&pli=1'
+    },
     esl: {
       title: 'ESL',
       tag: 'Basic Eritrean Sign Language',
